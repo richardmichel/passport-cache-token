@@ -1,0 +1,16 @@
+{
+    "name": "richardmichel/passport-cache-token",
+    "keywords": ["richardmichel", "laravel"],
+    "license": "MIT",
+    "require": {
+        "laravel/framework": "^8.0.0|^9.0.0",
+        "php": "^7.3|^8.0"
+    },
+    "authors": [
+        {
+            "name": "MichelNogales",
+            "email": "michelnogales@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
