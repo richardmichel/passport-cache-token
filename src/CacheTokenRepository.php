@@ -1,6 +1,6 @@
 <?php
 
-namespace Overtrue\LaravelPassportCacheToken;
+namespace MichiPassport\LaravelPassportCacheToken;
 
 use Illuminate\Cache\TaggableStore;
 use Illuminate\Contracts\Cache\Repository;

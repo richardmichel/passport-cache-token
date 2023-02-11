@@ -1,6 +1,6 @@
 <?php
 
-namespace Overtrue\LaravelPassportCacheToken;
+namespace MichiPassport\LaravelPassportCacheToken;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Passport\TokenRepository;
