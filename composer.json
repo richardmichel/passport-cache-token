@@ -17,7 +17,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "MichiPassport\\LaravelPassportCacheToken\\": "./src"
+      "MichiPassport\\LaravelPassportCacheToken\\": "src/"
     }
   },
   "minimum-stability": "dev"
